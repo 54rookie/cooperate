@@ -1,1 +1,2 @@
 Linux command
+edition in github by 54rookie
